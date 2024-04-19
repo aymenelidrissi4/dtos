@@ -1,0 +1,31 @@
+{
+  "productName": "Laptop",
+  "brand": "Dell",
+  "manufacturerName": "Dell Inc.",
+  "productDetails": {
+    "productDetailsId": 1,
+    "technicalSpecs": "Intel i7, 16GB RAM",
+    "extraFeatures": "Touchscreen",
+    "extendedDescription": "High-performance laptop"
+  },
+  "reviews": [
+    {
+      "id": 1,
+      "comment": "Great laptop!"
+    },
+    {
+      "id": 2,
+      "comment": "Excellent build quality."
+    }
+  ],
+  "productRatings": [
+    {
+      "id": 1,
+      "ratingValue": 4.5
+    },
+    {
+      "id": 2,
+      "ratingValue": 5.0
+    }
+  ]
+}
